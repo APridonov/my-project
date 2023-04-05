@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="112c4ae1-9c97-44ea-87b0-75b33c64216b" name="Changes" comment="Modified fourth file in the feature branch" />
+    <list default="true" id="112c4ae1-9c97-44ea-87b0-75b33c64216b" name="Changes" comment="Modified fourth file in the feature branch">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-subfolder/second-file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/first-subfolder/second-file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-subfolder/third-file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/first-subfolder/third-file.txt" afterDir="false" />
+    </list>
     <list id="4d88f665-d0c9-4ae6-a182-c407fd95d6cb" name="Staged Changes" comment="Modified fourth file in the feature branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
